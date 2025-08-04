@@ -1,0 +1,22 @@
+.container{
+    background-color: rgba(128, 241, 241, 0.616);
+    height: 200px;
+    width: 350px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    position: relative;
+    margin-top: 180px;
+    margin-left: 500px;
+    box-sizing: border-box;
+    box-shadow: 0 0 20px rgba(147, 230, 245, 0.8);
+}
+
+button{
+    background-color: azure;
+    color: black;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
